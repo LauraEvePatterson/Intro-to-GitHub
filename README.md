@@ -17,5 +17,7 @@ A test repo for the intro workshop
 
 ![Colorful picture with text that says I feel like garbage](garbage.jpg)
 
+
+
 [^1]: The image was found online.
 
